@@ -1,3 +1,7 @@
+Um simples cartão de visitas digital feito com React para entender melhor o conceito de componentes usando a biblioteca de javascript citada.
+
+![bussines-card-react](https://user-images.githubusercontent.com/74190963/180664083-a8b6348a-86e2-444e-b1e5-fc165be7a838.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
